@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="head_VV_wall_pic.png" alt="Viktor Vektor Ripperdoc Poster" width="100%">
+
 # Viktor Vektor Ripperdoc Poster - H10 Bathroom
 
 **Give V's H10 bathroom a little more Night City character.**
@@ -18,6 +20,10 @@ This mod replaces the vanilla shower/toilet directional arrows in V's H10 apartm
 The poster was designed to feel like an actual neighborhood advertisement you might find taped to a wall in Watson, promoting Vik's clinic, cyberware services, optics, implants, diagnostics, repairs, and upgrades.
 
 The original bathroom decal placement is retained, including the taped-to-the-wall appearance, so the replacement integrates naturally into the apartment rather than looking like a newly placed object.
+
+<p align="center">
+  <img src="VV_wall_pic.png" alt="Viktor Vektor poster installed in V's H10 bathroom" width="900">
+</p>
 
 ---
 
